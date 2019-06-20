@@ -1,4 +1,4 @@
 test/**
 cgmanifest.json
-.vscode
-*.vsix
+.vscode/**
+**.vsix
