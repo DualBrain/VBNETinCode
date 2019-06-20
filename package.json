@@ -5,7 +5,7 @@
 	"version": "1.0.0",
 	"publisher": "walkedby",
 	"license": "MIT",
-	"repository": "no",
+	"repository": "https://github.com/gordonwalkedby/VBNETinCode",
 	"engines": { "vscode": "*" },
 	"contributes": {
 		"languages": [{
