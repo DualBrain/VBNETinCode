@@ -3,7 +3,7 @@
 	"displayName": "VB.NET Grammars and Snippets",
 	"description": "A improvement for the original Visual Basic language.",
 	"version": "1.0.0",
-	"publisher": "walkedby",
+	"publisher": "gordonwalkedby",
 	"license": "MIT",
 	"repository": "https://github.com/gordonwalkedby/VBNETinCode",
 	"engines": { "vscode": "*" },
