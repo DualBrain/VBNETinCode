@@ -1,0 +1,27 @@
+{
+	"name": "vbnet",
+	"displayName": "VB.NET Grammars and Snippets",
+	"description": "A fix for the original vb.",
+	"version": "1.0.0",
+	"publisher": "walkedby",
+	"license": "MIT",
+	"repository": "no",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"languages": [{
+			"id": "vbnet",
+			"extensions": [ ".vb" ],
+			"aliases": [ "Visual Basic .NET", "vbnet" ],
+			"configuration": "./language-configuration.json"
+		}],
+		"grammars": [{
+			"language": "vbnet",
+			"scopeName": "source.vbnet",
+			"path": "./syntaxes/vbnet.json"
+		}],
+		"snippets": [{
+			"language": "vbnet",
+			"path": "./snippets/vbnet.json"
+		}]
+	}
+}
