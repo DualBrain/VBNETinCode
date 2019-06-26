@@ -2,7 +2,7 @@
 	"name": "vbnet",
 	"displayName": "VB.NET Grammars and Snippets",
 	"description": "A improvement for the original Visual Basic language.",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"publisher": "gordonwalkedby",
 	"license": "MIT",
 	"repository": "https://github.com/gordonwalkedby/VBNETinCode",

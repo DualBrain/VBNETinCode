@@ -997,12 +997,12 @@
 		],
 		"description": "Xor ... VBNET"
 	},
-	"Tostring": {
-		"prefix": "Tostring",
+	"ToString": {
+		"prefix": "ToString",
 		"body": [
-			"Tostring "
+			"ToString() "
 		],
-		"description": "Tostring ... VBNET"
+		"description": "ToString() ... VBNET"
 	},
 	"CBool": {
 		"prefix": "CBool",
